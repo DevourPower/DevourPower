@@ -6,9 +6,7 @@
 
 * GDUT现役ACMer,队伍:沸水(BoilingWater)
 
-* 获奖经历: 2020CCPC长春铜,2021ICPC沈阳银;
-
-* 有打算考研
+* 获奖经历: 最高ICPC-ACM 2021 沈阳 银;
 
 * 很想要开发游戏呢
 
